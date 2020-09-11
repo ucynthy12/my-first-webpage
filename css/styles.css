@@ -14,4 +14,7 @@ h2 {
   ol {
     line-height: 40px;
   }
-  
+
+  body {
+    background-color:yellow;
+  }
